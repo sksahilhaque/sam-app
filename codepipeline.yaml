@@ -32,7 +32,7 @@ Parameters:
     Default: "GitHub"
   FullRepositoryId:
     Type: String
-    Default: "sam-app"
+    Default: "sam-app-dev"
   MainGitBranch:
     Type: String
     Default: "master"
